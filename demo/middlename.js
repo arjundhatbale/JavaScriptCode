@@ -1,1 +1,0 @@
-alert("middle name is subhahs   ");
