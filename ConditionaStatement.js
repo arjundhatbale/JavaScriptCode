@@ -32,4 +32,12 @@ if(num % 2 == 0){
 
 //prompt("hello Arjun");
 
-let name = prompt("hello");
+// let name = prompt("hello");
+
+let no = prompt("Enter a no");
+
+if (no % 5 == 0){
+    console.log(no , " is a multiple of 5");
+}else{
+    console.log(no + " is not Multiple of 5");
+};
